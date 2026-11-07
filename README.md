@@ -33,7 +33,7 @@ It bridges desktop AI assistants and IDEs (such as **Claude Desktop**, **Cursor*
                            v
 +-------------------------------------------------------+
 |           SmallMetrics Backend (Django MCP)           |
-|  - User Data (Notes, Tasks, Money, Goals, Profile)    |
+|  - User Data (Notes, Tasks, Money, Profile)           |
 |  - Scope & Permission Enforcement (Read / Write)      |
 +-------------------------------------------------------+
 ```
